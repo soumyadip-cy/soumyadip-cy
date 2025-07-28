@@ -22,9 +22,16 @@ for robust backend solutions.
 - Selenium
 - Junit
 - TestNG
+- Tailwind CSS
+- Spring Data MongoDB/JPA
 - MySQL/MariaDB
 - PostgreSQL
 - Django
+
+## Tools 🛠️
+- Git/GitHub
+- Maven
+- Docker
 
 ## Testing Techniques 🧪
 - Performance Testing
