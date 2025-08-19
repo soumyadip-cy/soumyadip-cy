@@ -3,7 +3,7 @@
 LinkedIn: https://www.linkedin.com/in/soumyadip-choudhury-674454201/
 
 ## About Me 😊
-Software Developer who started as a Quality Analyst specializing in
+Software Developer who started as a Quality Analyst / Software Development Engineer in Test (SDET) specializing in
 automating performance testing in my previous company. My passion
 for software development has led me to build proficiency in
 technologies such as React.js for dynamic frontends and Spring Boot
